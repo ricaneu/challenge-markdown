@@ -15,7 +15,7 @@
 | Favorite color | Peach   |  
 | Food       | Ebbeh         | 
 
-Pinneapple on pizza: not with pepperoni - [x] 
+- [x] Pinneapple on pizza: not with pepperoni  
 
 ### Hobbies
 
