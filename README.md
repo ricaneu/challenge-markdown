@@ -14,3 +14,33 @@
 | Gender    | Female      |
 | Favorite color | Peach   |  
 | Food       | Ebbeh         | 
+
+Pinneapple on pizza: not with pepperoni - [x]
+
+### Hobbies
+
+* Reading
+    * 'The Moon Is a Harsh Mistress' - Robert A. Heinlein
+    * 'The Master and Margarita'- Mihail Bulgakof
+    * 'You Talkin' to Me?' - Sam Leith
+    * 'Rebel Ideas'- Mathew Syed
+* Gardening
+* Movies
+* Swimming
+* Traveling
+
+### You can always count on me when...
+... you need help or a shoulder
+
+
+### A funny story
+
+Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla.
+
+##### TL;DR
+Bla bla. Bla.
+
+
+
+
+[Previous](https://github.com/RayaneLamri/solo-markdown/blob/main/README.md) Rica Joost [Next](https://github.com/RayaneLamri/solo-markdown/blob/main/README.md)
