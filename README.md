@@ -6,7 +6,7 @@
 
 ![Rica](./187301832_10165080969115243_1641367450192092561_n.jpg)
 
-### A girl with a wish to fly people to space.
+### I am a girl with a wish to fly people to space. I believe that with today's technology we have all the possibilities in front of us to fly space ships into the outer space. It is just a matter of funding. We are yet to see if Elon Musk with his Spacex and Richard Branson with Virgin Galactic will diliver the long awaited developments. There is some clear intention to bring these ideas into life. My aim is to obtain all the tech knowledge necesary to contribute into such programs. I will stop at nothing.
 
 | Personal info |                    |         
 | ------------- |:-------------:|
