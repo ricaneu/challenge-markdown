@@ -37,10 +37,10 @@ I believe that with today's technology we have all the possibilities in front of
 
 ### A funny story
 
-Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla. Bla bla bla bla bla. Bla bla bla bla, bla bla bla bla bla.
+The story that is funny for others may not be that funny for me so I prefer to keep it to myself for the time being. Thank you very much.
 
 ##### TL;DR
-Bla bla. Bla.
+No funny story on my behalf
 
 
 
